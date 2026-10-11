@@ -5,8 +5,8 @@
 #include <WiFiClientSecure.h>
 
 
-const char* ssid     = "Qershi";
-const char* password = "Stella1177";
+const char* ssid     = "Phone";
+const char* password = "pass";
 
 // Your Node.js server
 // const char* serverUrl = "https://preoccupied-nondichogamic-linda.ngrok-free.dev/api/gps";
